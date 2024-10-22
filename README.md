@@ -83,7 +83,8 @@ s.send("acknowledgement recived from the server".encode())
 ~~~
 
 ## Output :
-![ex 1a output](https://github.com/user-attachments/assets/6d98a9f0-cce1-4e13-af73-0620f267d551)
+![Screenshot 2024-10-22 093956](https://github.com/user-attachments/assets/975bfd9e-23f3-4ebd-9838-afc3e47d847b)
+
 
 
 ## Result:
